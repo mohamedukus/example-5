@@ -15,6 +15,10 @@ footer
   background-color: #343a40;
   padding: 20px;
 }
+.picture{
+    height:180px;
+    width: 230px;
+}
 header{
     margin-bottom: 30px;
 }
@@ -77,6 +81,7 @@ article{
     margin: 0 auto 5px;
 
 }
+
 
 
 
