@@ -14,7 +14,21 @@ footer
 header{
     margin-bottom: 30px;
 }
-
+.title{
+    border-left:7px solid navy;
+    width:90%;
+    margin:50px auto;
+    padding:10px;
+    background-color:#F4C2C2;
+    border-radius: 8px;
+    
+}
+.title:hover{
+     background-color:#FF91A4;
+     border-left:7px solid #F5F5DC;
+     padding:10px;
+    
+}
 main{
     background-color: #f8f9fa;
     margin: 20px 0;
@@ -57,4 +71,5 @@ article{
     display: block;
     width: 60%;
     margin: 0 auto 5px;
+
 }
