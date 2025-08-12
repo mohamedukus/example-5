@@ -3,11 +3,7 @@
     text-align: center;
     border-radius: 10px;
 }
-img{
-    height:250px;
-    width: 350px;
-    border-radius:10px;
-}
+
 header,
 footer
   {
@@ -15,9 +11,9 @@ footer
   background-color: #343a40;
   padding: 20px;
 }
-.picture{
-    height:180px;
-    width: 230px;
+.draw{
+    height:250px;
+    width: 350px;
 }
 header{
     margin-bottom: 30px;
@@ -81,6 +77,7 @@ article{
     margin: 0 auto 5px;
 
 }
+
 
 
 
